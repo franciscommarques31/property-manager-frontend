@@ -14,7 +14,7 @@ function Header() {
       <div className="flex items-center gap-3">
         <div className="hidden text-right sm:block">
           <p className="text-sm font-medium text-slate-900">
-            Francisco
+            Francisca
           </p>
 
           <p className="text-xs text-slate-500">
