@@ -14,7 +14,7 @@ function Sidebar() {
     },
     {
       label: "Obras",
-      path: "/projects",
+      path: "/works",
       icon: "⌁",
     },
     {
@@ -28,7 +28,6 @@ function Sidebar() {
       icon: "□",
     },
   ];
-
   return (
     <aside className="flex h-screen w-64 flex-col border-r border-slate-200 bg-white">
       <div className="flex h-20 items-center border-b border-slate-200 px-6">
